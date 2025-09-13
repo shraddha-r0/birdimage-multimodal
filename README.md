@@ -119,7 +119,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Hugging Face](https://huggingface.co/) for the datasets and model hub
 
 ---
-
-<div align="center">
-  Made with ❤️ by Shraddha Ramesh | [LinkedIn](https://www.linkedin.com/in/shraddha-r0/) | [GitHub](https://github.com/shraddha-r0)
-</div>
