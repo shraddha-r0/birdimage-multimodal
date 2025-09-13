@@ -4,7 +4,7 @@ from datasets import load_dataset
 # Config
 DS_NAME = "vishnun0027/BirdsSpecies"
 SPLIT = "train"           # adjust if the dataset has other splits
-MAX_SAMPLES = 200       
+MAX_SAMPLES = 2000      
 OUT_DIR = "data/birds"
 
 os.makedirs(OUT_DIR, exist_ok=True)
