@@ -1,3 +1,11 @@
+# Data and database directories
+data/
+db/
+*.lance/
+*.lance.lock
+*.lance.tmp/
+*.lance.transaction.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
