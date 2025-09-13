@@ -1,0 +1,8 @@
+datasets
+transformers
+torch
+Pillow
+gradio
+lancedb
+pyarrow
+numpy
