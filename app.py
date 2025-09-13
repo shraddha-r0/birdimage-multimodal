@@ -58,7 +58,7 @@ except Exception as e:
     species_dropdown = gr.Dropdown(choices=[], label="Filter by species (not available)", value=None)
 
 with gr.Blocks(title="BirdSearch") as demo:
-    gr.Markdown("# 🐦 BirdSearch\nCLIP-powered text ↔ image retrieval on the Ez-Clap/bird-species dataset.")
+    gr.Markdown("# 🐦 BirdSearch\nCLIP-powered text ↔ image retrieval on the vishnun0027/BirdsSpecies dataset.")
     with gr.Tab("Text → Image"):
         q = gr.Textbox(label="Describe the bird / photo style (e.g., 'small brown bird with streaked chest', 'blue head red throat', 'close-up portrait')")
         k = gr.Slider(3, 16, value=8, step=1, label="Top-K")
