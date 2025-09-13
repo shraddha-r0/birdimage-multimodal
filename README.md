@@ -3,11 +3,9 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0.0+-red)](https://pytorch.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-3.0+-blueviolet)](https://gradio.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A multimodal AI application that enables semantic search through bird images using natural language queries or example images. Built with state-of-the-art deep learning models, this project demonstrates the power of multimodal AI in wildlife conservation and biodiversity research.
 
-![Bird Search Demo](https://via.placeholder.com/800x400.png?text=Bird+Search+Demo)
 
 ## ✨ Features
 
@@ -123,5 +121,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <div align="center">
-  Made with ❤️ by Shraddha Ramesh | [LinkedIn](https://www.linkedin.com/in/shraddha-r0/) | [GitHub](https://github.com/yourusername)
+  Made with ❤️ by Shraddha Ramesh | [LinkedIn](https://www.linkedin.com/in/shraddha-r0/) | [GitHub](https://github.com/shraddha-r0)
 </div>
